@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668070277 source:c:\users\ccm\documents\shop_metric\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1674910330 source:c:\users\ccm\videos\projects\c++\shop_metric\main.cpp
+	<iostream>
+	<stdlib.h>
+
